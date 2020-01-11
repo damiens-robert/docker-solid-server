@@ -4,7 +4,7 @@ Dockerfile that builds a docker image of the NodeJs Inrupt Pod solid-server
 
 # Prerequesites
 
-* Docker
+* Docker v19.03.5
 
 # Instructions
 
